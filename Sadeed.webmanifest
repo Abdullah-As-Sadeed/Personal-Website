@@ -1,0 +1,82 @@
+{
+  "background_color": "#FFFFFF",
+  "categories": ["developer"],
+  "description": "About Abdullah As-Sadeed",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/Sadeed_48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "src": "/Sadeed_72.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "any"
+    },
+    {
+      "src": "/Sadeed_96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any"
+    },
+    {
+      "src": "/Sadeed_128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "any"
+    },
+    {
+      "src": "/Sadeed_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/Sadeed_384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "any"
+    },
+    {
+      "src": "/Sadeed_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "id": "/",
+  "lang": "en",
+  "name": "Abdullah As-Sadeed",
+  "orientation": "portrait",
+  "scope": "/",
+  "screenshots": [
+    {
+      "src": "/ScreenShot.jpeg",
+      "type": "image/jpeg",
+      "sizes": "540x720",
+      "label": "About Abdullah As-Sadeed"
+    }
+  ],
+  "short_name": "Sadeed",
+  "shortcuts": [
+    {
+      "name": "Sadeed",
+      "short_name": "Sadeed",
+      "description": "Abdullah As-Sadeed",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/Sadeed_192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#424242"
+}
